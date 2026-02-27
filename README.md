@@ -1,5 +1,5 @@
 -- [[ CONFIGURAÇÕES DE ACESSO ]] --
-local VALID_KEY = "7f9c2a81-b4d3-4e6f-9a2c-5d8e1b7c3f90"
+local VALID_KEY = "c4a9f7d2-8b31-4e5f-9a6c-2d7e8f1b3a90"
 local DISCORD_LINK = "https://discord.gg/nQ3YqHFPCw"
 
 local Players = game:GetService("Players")
